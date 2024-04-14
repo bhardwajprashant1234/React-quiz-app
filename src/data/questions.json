@@ -1,0 +1,212 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        {
+          "text": "London",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "Berlin",
+          "isCorrect": false
+        },
+        {
+          "text": "Rome",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        {
+          "text": "Atlantic Ocean",
+          "isCorrect": false
+        },
+        {
+          "text": "Indian Ocean",
+          "isCorrect": false
+        },
+        {
+          "text": "Pacific Ocean",
+          "isCorrect": true
+        },
+        {
+          "text": "Arctic Ocean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answers": [
+        {
+          "text": "US Dollar",
+          "isCorrect": false
+        },
+        {
+          "text": "Euro",
+          "isCorrect": false
+        },
+        {
+          "text": "Yen",
+          "isCorrect": true
+        },
+        {
+          "text": "Renminbi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": [
+        {
+          "text": "Mount Everest",
+          "isCorrect": true
+        },
+        {
+          "text": "K2",
+          "isCorrect": false
+        },
+        {
+          "text": "Kangchenjunga",
+          "isCorrect": false
+        },
+        {
+          "text": "Lhotse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answers": [
+        {
+          "text": "Heart",
+          "isCorrect": false
+        },
+        {
+          "text": "Liver",
+          "isCorrect": false
+        },
+        {
+          "text": "Lungs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": [
+        {
+          "text": "Au",
+          "isCorrect": true
+        },
+        {
+          "text": "Ag",
+          "isCorrect": false
+        },
+        {
+          "text": "Cu",
+          "isCorrect": false
+        },
+        {
+          "text": "Hg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": [
+        {
+          "text": "Saturn",
+          "isCorrect": false
+        },
+        {
+          "text": "Jupiter",
+          "isCorrect": true
+        },
+        {
+          "text": "Uranus",
+          "isCorrect": false
+        },
+        {
+          "text": "Neptune",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "answers": [
+        {
+          "text": "Vatican City",
+          "isCorrect": true
+        },
+        {
+          "text": "Monaco",
+          "isCorrect": false
+        },
+        {
+          "text": "Nauru",
+          "isCorrect": false
+        },
+        {
+          "text": "Tuvalu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the largest bone in the human body?",
+      "answers": [
+        {
+          "text": "Femur",
+          "isCorrect": true
+        },
+        {
+          "text": "Tibia",
+          "isCorrect": false
+        },
+        {
+          "text": "Humerus",
+          "isCorrect": false
+        },
+        {
+          "text": "Fibula",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answers": [
+        {
+          "text": "Na",
+          "isCorrect": true
+        },
+        {
+          "text": "Cl",
+          "isCorrect": false
+        },
+        {
+          "text": "H",
+          "isCorrect": false
+        },
+        {
+          "text": "O",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
